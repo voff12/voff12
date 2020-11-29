@@ -44,3 +44,6 @@ Here are some ideas to get you started:
 
 - 联系方式
 邮箱wuxiang#come-future.com
+
+> 期待有缘人加入，同梦想的人终会相聚。
+梦想
