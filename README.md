@@ -21,8 +21,14 @@ Here are some ideas to get you started:
 - 心念：对提升人类工作效率的软件开发充满激情
     - 过去有阿里12年工作经验，I’m currently working on 未来来科技
 - 注重 匠心，创新，数字化
-- 开源项目
+- 开源项目&产品
     - `Java`业界性能第一的流程引擎，阿里巴巴中台核心流程引擎 [`alibaba/compileflow`](https://github.com/alibaba/compileflow)
+    - 对标shopify, AStore产品
+- 业务架构经验：
+    - 阿里汇金商业结算平台
+    - 阿里店铺中台
+    - 阿里云CPS云产品，ECS流程架构
+    - AliExpress 社交平台，联盟平台，广告平台，游戏互动平台，内容平台，投放平台
 
 ## 🔥 We're hiring‼️
 
