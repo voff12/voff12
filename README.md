@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- ![voff12 stats](https://github-readme-stats.vercel.app/api?count_private=true&username=voff12&show_icons=true&hide_border=true)
 
 ## 👨‍🚒 花名:无相|Tom Chen
 
@@ -30,8 +31,6 @@ Here are some ideas to get you started:
     - 阿里云CPS云产品创始人，ECS流程架构师
     - Lazada创新产品YouPick 技术架构师
     - AliExpress 社交平台，联盟平台，广告平台，游戏互动平台，内容平台，商业PPC平台 负责人
-    
-- ![voff12 stats](https://github-readme-stats.vercel.app/api?count_private=true&username=voff12&show_icons=true&hide_border=true)
 
 ## 🔥 We're hiring‼️
 
