@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ![voff12 stats](https://github-readme-stats.vercel.app/api?count_private=true&username=voff12&show_icons=true&hide_border=true)
-
 ## 👨‍🚒 花名:无相|Tom Chen
 
 - 心念：对提升人类工作效率的软件开发充满激情
