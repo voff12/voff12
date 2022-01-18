@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 - 注重 匠心，创新，数字化
 - 开源项目&产品
     - `Java`业界性能第一的流程引擎，阿里巴巴中台核心流程引擎 [`alibaba/compileflow`](https://github.com/alibaba/compileflow)
-    - 对标shopify, AStore产品
+    - 对标shopify自主研发的AStore产品
 - 业务架构经验：
     - 阿里汇金商业结算平台架构师，全集团统一计费结算分成平台
-    - 阿里店铺中台架构师,全集团统一店铺技术架构。
-    - 阿里云CPS云产品创始人，ECS流程架构师
-    - Lazada创新产品YouPick 技术架构师
-    - AliExpress 社交平台，联盟平台，广告平台，游戏互动平台，内容平台，商业PPC平台 负责人
+    - 阿里店铺中台架构师与技术负责人,统一全集团店铺技术架构。
+    - 阿里云CPS云产品创始人
+    - Lazada创新产品YouPick技术架构师
+    - AliExpress 多平台技术负责人(社交平台，联盟平台，广告平台，游戏互动平台，内容平台，商业PPC平台等)负责人
 
 ## 🔥 We're hiring‼️
 
@@ -40,4 +40,3 @@ Here are some ideas to get you started:
 邮箱wuxiang#come-future.com
 
 > 期待有缘人加入，同梦想的人终会相聚。
-梦想
