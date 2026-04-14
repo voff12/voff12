@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 - #未来来科技招聘[附未来来相关信息介绍](https://www.ofweek.com/medical/2020-11/ART-12005-11106-30467619.html)
 
-#### Java开发工程师
+#### AI agent&本体论架构师
 
 - 联系方式
 邮箱wuxiang#come-future.com
