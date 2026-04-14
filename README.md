@@ -29,6 +29,7 @@ Here are some ideas to get you started:
     - 阿里云CPS云产品创始人
     - Lazada创新产品YouPick技术架构师
     - AliExpress 多平台技术负责人(社交平台，联盟平台，广告平台，游戏互动平台，内容平台，商业PPC平台等)负责人
+    - 来未来HBOS产研负责人，HMOS研发交付负责人，整体负责过业务中台，技术中台，数据中台
 
 ## 🔥 We're hiring‼️
 
